@@ -1,0 +1,137 @@
+website: http://gjzwfw.www.gov.cn/col/col572/index.html
+
+
+
+National government service platform
+
+User guide
+
+Auxiliary column
+
+home page
+
+Access mode
+
+Service overview
+
+User registration
+
+User center
+
+Express Service
+
+Department service window
+
+Local service window
+
+Personal affairs
+
+Legal person affairs
+
+User guide of national government service platform
+
+Access mode of national government service platform
+
+1. Access the website of the national government service platform
+
+Website of national government service platform
+
+www.gjzwfw. gov.cn
+
+2. Scan your mobile phone, and serve "palm office, fingertip office"
+
+Mobile app
+
+Wechat applet
+
+Alipay applet
+
+Wechat official account
+
+Baidu applet
+
+Fast app (Android only)
+
+Overview of national government service platform services
+
+Unified identity authentication: provide login and authoritative real name authentication services for natural and legal person users to realize "one login, nationwide roaming"
+
+Unified license service: solve the problem of repeatedly submitting paper licenses in handling affairs, and realize the national exchange and mutual recognition of electronic licenses
+
+Unified services: government services for users in different regions without differentiation and equalization
+
+Unified complaints and suggestions on government services: provide complaints and suggestions on government services for the difficulties and problems encountered by users in handling affairs and services
+
+Unified good and bad evaluation: provide real-time online evaluation of service, and promote the continuous improvement of service level
+
+Unified user access: create a user exclusive space and gather user information through one network
+
+Unified search service: quickly find service items nationwide to realize one-stop search of national government services
+
+User registration of national government service platform
+
+Register as a real name user of the national government service platform
+
+You will get more considerate government services
+
+Individual user registration
+
+https://login.gjzwfw.gov.cn/tacs-uc/naturalMan/
+
+register
+
+Legal person user registration
+
+https://login.gjzwfw.gov.cn/tacs-uc/corp/register
+
+Exclusive service space of national government service platform
+
+Gather users' exclusive information and provide "one-stop" full life-cycle government services
+
+The user center mainly gathers three parts of information
+
+First, the user's identity information, license information and exclusive file information.
+
+The second is to actively push the handling reminder, the expiration reminder of certificates and licenses, and the feedback of complaints and suggestions.
+
+Third, provide personalized, accurate and intelligent matters, policies and special column Service recommendations.
+
+Direct access to State Council departments and local government services
+
+Provide standardized guidance services and one-stop handling services for relevant departments of the State Council and provinces (autonomous regions and municipalities)
+
+Click here
+
+Click here
+
+Department service window of the State Council
+
+Covering 45 departments of the State Council
+
+The Department service window of the State Council is an exclusive sector created by all departments according to unified standards, which provides quick access to high-frequency application services and hot spot services of the Department; At the same time, personal matters and corporate matters of the Department will also be displayed by subject classification, so as to facilitate rapid search
+
+Click to enter
+
+Local government service window
+
+Covering 32 Local Governments
+
+The local government service window is an exclusive sector created by all localities in accordance with unified standards, providing quick access to high-frequency application services and hot spot services in the region; At the same time, personal matters and corporate matters in the region will also be displayed by subject classification, and municipal and county (District) level matters under the jurisdiction of the region will be displayed and screened level by level, so as to accurately and quickly query matters.
+
+Click to enter
+
+Personal affairs of national government service platform
+
+Provide individual online handling services for departments of the State Council and local governments
+
+In the personal affairs column, you can check the personal affairs provided by the departments of the State Council and local governments respectively. At present, 34 Departments of the State Council and 32 local governments have provided personal affairs services. For local governments, matters can be screened according to regions, departments under regions and themes. At the same time, the keyword query service of matters is also provided in the list of matters, so as to accurately locate matters.
+
+Click to enter
+
+Legal person affairs of national government service platform
+
+Provide legal person online handling services for departments of the State Council and local governments
+
+In the column of legal person affairs, you can check the legal person affairs provided by departments of the State Council and local governments respectively. At present, 41 departments of the State Council and 32 local governments have provided legal person affairs services. For local governments, matters can be screened according to regions, departments under regions and themes. At the same time, keyword query services for matters are also provided in the list of matters, which is convenient for accurately locating matters.
+
+Click to enter
